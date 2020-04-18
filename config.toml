@@ -1,4 +1,4 @@
 baseURL = "https://furniture.hugo.grr.fyi/"
 languageCode = "en-us"
-title = "Grynn Product Catalogue"
+title = "Grynn Furniture Catalogue"
 theme = "hugo-shopping-product-catalogue-simple"
