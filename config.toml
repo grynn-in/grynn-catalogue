@@ -1,4 +1,4 @@
-baseURL = "https://elastic-morse-ba5255.netlify.app/"
+baseURL = "https://furniture.hugo.grr.fyi/"
 languageCode = "en-us"
 title = "Grynn Product Catalogue"
 theme = "hugo-shopping-product-catalogue-simple"
